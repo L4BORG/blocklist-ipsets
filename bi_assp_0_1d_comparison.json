@@ -1,0 +1,56 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 11309,
+		"common": 61
+	},
+	{
+		"name": "bi_mail_0_1d",
+		"category": "attacks",
+		"ips": 4287,
+		"common": 61
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 39832,
+		"common": 6
+	},
+	{
+		"name": "blocklist_de_imap",
+		"category": "attacks",
+		"ips": 5414,
+		"common": 6
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 31347,
+		"common": 6
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 46938,
+		"common": 6
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 1649,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 15
+	},
+	{
+		"name": "urandomusto_mailer",
+		"category": "spam",
+		"ips": 259,
+		"common": 1
+	}
+]

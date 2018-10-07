@@ -1,0 +1,26 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 450,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 634047205,
+		"common": 1
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 49868,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 47051,
+		"common": 1
+	}
+]
